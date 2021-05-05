@@ -1,2 +1,3 @@
-# Google-Search-Box
-A simple Google Search Box
+## General Info
+
+A simple Google Search Box made using HTML & CSS
